@@ -2,4 +2,5 @@
  Primeiro repositório do curso de Git e GitHub
  Repositorio criado com sucesso.
 
-what is you doing 
+**what are you doing** 
+*hello how´s it going*
