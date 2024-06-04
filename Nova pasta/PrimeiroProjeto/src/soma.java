@@ -15,6 +15,7 @@ public class soma {
             number = entrada.nextInt();
         }
         System.out.println("Resultado: "+resultado+" Fim da Execução");
+    
     }
     
 }
